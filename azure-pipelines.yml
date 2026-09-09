@@ -2,7 +2,7 @@ trigger:
   - main
  
 variables:
-  acrName: 'rkdevops'
+  acrName: 'surajdevops'
  
 stages:
 - stage: Build
